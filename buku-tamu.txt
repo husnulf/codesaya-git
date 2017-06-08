@@ -930,8 +930,8 @@ Website: https://bondan.biz
 Pesan: Terima kasih untuk tutorial pull requestnya,sangat bermanfaat.!!
 
 Entry: 131
-CodeSaya:herman_sugiharto
-Github: ezioalzeusi
-Nama: Herman Sugiharto
-Website: http://noesantara.byethost10.com
-Pesan: Terimakasih ya
+CodeSaya:husnul20_f
+Github: husnulf
+Nama: husnul
+Website: http://husnul.com
+Pesan: Makasih Ya
